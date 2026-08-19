@@ -1,0 +1,16 @@
+# Auto-detect text files and always use LF everywhere (Linux, macOS and
+# Windows). CRLF is never checked out, so no autocrlf warnings on Windows.
+* text=auto eol=lf
+
+# JSON
+*.json linguist-language=JSON text
+*.jsonc linguist-language=JSON text
+
+# Documentation
+*.md linguist-language=Markdown text
+*.txt linguist-language=Text text
+LICENSE linguist-language=Text text
+
+# Git configuration
+.gitignore linguist-language=Ignore-List text
+.gitattributes linguist-language=Git-Attributes text
