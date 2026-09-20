@@ -9,7 +9,11 @@
             "description": "Dark magenta, red, and cyan palette inspired by the Dracula color scheme. Suitable for dark terminals.",
             "layout": "section",
             "palette_style": "circles",
-            "tags": ["dark", "dracula", "popular"],
+            "tags": [
+                "dark",
+                "dracula",
+                "popular"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/dracula.jsonc"
         },
         {
@@ -19,7 +23,12 @@
             "description": "Cool blue and arctic cyan palette based on the Nord color scheme. Clean and minimal.",
             "layout": "section",
             "palette_style": "squares",
-            "tags": ["light", "nord", "arctic", "minimal"],
+            "tags": [
+                "light",
+                "nord",
+                "arctic",
+                "minimal"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/nord.jsonc"
         },
         {
@@ -29,7 +38,12 @@
             "description": "Warm mocha pastel palette from the Catppuccin Mocha color scheme. Easy on the eyes.",
             "layout": "section",
             "palette_style": "dots",
-            "tags": ["dark", "catppuccin", "mocha", "pastel"],
+            "tags": [
+                "dark",
+                "catppuccin",
+                "mocha",
+                "pastel"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/catppuccin-mocha.jsonc"
         },
         {
@@ -39,7 +53,12 @@
             "description": "Classic Pac-Man arcade style with game-inspired header icons and footer text. Yellow and dark palette.",
             "layout": "pacman",
             "palette_style": "squares",
-            "tags": ["retro", "pacman", "arcade", "game"],
+            "tags": [
+                "retro",
+                "pacman",
+                "arcade",
+                "game"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/retro-pacman.jsonc"
         },
         {
@@ -49,7 +68,12 @@
             "description": "Monochrome theme with no colors and no icons. Clean text-only output for minimalists.",
             "layout": "default",
             "palette_style": "squares",
-            "tags": ["monochrome", "minimal", "no-icons", "no-colors"],
+            "tags": [
+                "monochrome",
+                "minimal",
+                "no-icons",
+                "no-colors"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/berlin.jsonc"
         },
         {
@@ -59,7 +83,12 @@
             "description": "Hierarchical tree layout with a cool blue-green color scheme. Optimized for nested module groups.",
             "layout": "tree",
             "palette_style": "lines",
-            "tags": ["tree", "hierarchical", "compact", "nested"],
+            "tags": [
+                "tree",
+                "hierarchical",
+                "compact",
+                "nested"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/tree-compact.jsonc"
         },
         {
@@ -69,7 +98,11 @@
             "description": "Bottom layout with a warm red, magenta and white palette.",
             "layout": "bottom",
             "palette_style": "circles",
-            "tags": ["bottom", "warm", "red"],
+            "tags": [
+                "bottom",
+                "warm",
+                "red"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/bogota.jsonc"
         },
         {
@@ -79,7 +112,11 @@
             "description": "Single-line layout with a green, blue and magenta accent mix.",
             "layout": "line",
             "palette_style": "circles",
-            "tags": ["line", "green", "nordic"],
+            "tags": [
+                "line",
+                "green",
+                "nordic"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/helsinki.jsonc"
         },
         {
@@ -89,7 +126,11 @@
             "description": "Section layout with a red, magenta and white palette.",
             "layout": "section",
             "palette_style": "triangles",
-            "tags": ["section", "warm", "red"],
+            "tags": [
+                "section",
+                "warm",
+                "red"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/lahabana.jsonc"
         },
         {
@@ -99,7 +140,11 @@
             "description": "Minimal greyscale palette (white and grey) for quiet terminals.",
             "layout": "minimal",
             "palette_style": "squares",
-            "tags": ["minimal", "greyscale", "light"],
+            "tags": [
+                "minimal",
+                "greyscale",
+                "light"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/london.jsonc"
         },
         {
@@ -109,7 +154,11 @@
             "description": "Default layout with a red, green and blue tricolor palette.",
             "layout": "default",
             "palette_style": "squares",
-            "tags": ["default", "tricolor", "warm"],
+            "tags": [
+                "default",
+                "tricolor",
+                "warm"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/madrid.jsonc"
         },
         {
@@ -119,7 +168,11 @@
             "description": "Section layout with a magenta, cyan and white vaporwave palette.",
             "layout": "section",
             "palette_style": "circles",
-            "tags": ["vaporwave", "magenta", "cyan"],
+            "tags": [
+                "vaporwave",
+                "magenta",
+                "cyan"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/miami.jsonc"
         },
         {
@@ -129,7 +182,11 @@
             "description": "Compact layout with a cool blue, cyan and white palette.",
             "layout": "compact",
             "palette_style": "lines",
-            "tags": ["compact", "blue", "nordic"],
+            "tags": [
+                "compact",
+                "blue",
+                "nordic"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/oslo.jsonc"
         },
         {
@@ -139,7 +196,11 @@
             "description": "Box layout with a red, magenta and white palette.",
             "layout": "box",
             "palette_style": "dots",
-            "tags": ["box", "warm", "red"],
+            "tags": [
+                "box",
+                "warm",
+                "red"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/paris.jsonc"
         },
         {
@@ -149,7 +210,11 @@
             "description": "Section layout with a red and magenta palette, triangle swatches.",
             "layout": "section",
             "palette_style": "triangles",
-            "tags": ["section", "warm", "red"],
+            "tags": [
+                "section",
+                "warm",
+                "red"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/praha.jsonc"
         },
         {
@@ -159,7 +224,11 @@
             "description": "Horizontal layout with a red, white and magenta palette.",
             "layout": "horizontal",
             "palette_style": "squares",
-            "tags": ["horizontal", "warm", "red"],
+            "tags": [
+                "horizontal",
+                "warm",
+                "red"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/tokio.jsonc"
         },
         {
@@ -169,8 +238,920 @@
             "description": "Section layout with a cyan, magenta and white accent set.",
             "layout": "section",
             "palette_style": "circles",
-            "tags": ["section", "cyan", "bright"],
+            "tags": [
+                "section",
+                "cyan",
+                "bright"
+            ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/x.jsonc"
+        },
+        {
+            "name": "dracula-soft",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular dracula soft scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "dracula",
+                "soft"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/dracula-soft.jsonc"
+        },
+        {
+            "name": "dracula-pro",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular dracula pro scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "dracula",
+                "pro"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/dracula-pro.jsonc"
+        },
+        {
+            "name": "one-dark",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular one dark scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "one",
+                "dark"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/one-dark.jsonc"
+        },
+        {
+            "name": "one-dark-pro",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular one dark pro scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "one",
+                "dark"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/one-dark-pro.jsonc"
+        },
+        {
+            "name": "one-light",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular one light scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "one",
+                "light"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/one-light.jsonc"
+        },
+        {
+            "name": "tokyo-night",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular tokyo night scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "tokyo",
+                "night"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/tokyo-night.jsonc"
+        },
+        {
+            "name": "tokyo-night-storm",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular tokyo night storm scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "tokyo",
+                "night"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/tokyo-night-storm.jsonc"
+        },
+        {
+            "name": "tokyo-night-moon",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular tokyo night moon scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "tokyo",
+                "night"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/tokyo-night-moon.jsonc"
+        },
+        {
+            "name": "tokyo-night-day",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular tokyo night day scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "tokyo",
+                "night"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/tokyo-night-day.jsonc"
+        },
+        {
+            "name": "gruvbox-dark",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular gruvbox dark scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "gruvbox",
+                "dark"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/gruvbox-dark.jsonc"
+        },
+        {
+            "name": "gruvbox-dark-hard",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular gruvbox dark hard scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "gruvbox",
+                "dark"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/gruvbox-dark-hard.jsonc"
+        },
+        {
+            "name": "gruvbox-light",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular gruvbox light scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "gruvbox",
+                "light"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/gruvbox-light.jsonc"
+        },
+        {
+            "name": "gruvbox-material",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular gruvbox material scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "gruvbox",
+                "material"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/gruvbox-material.jsonc"
+        },
+        {
+            "name": "nord-aurora",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular nord aurora scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "nord",
+                "aurora"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/nord-aurora.jsonc"
+        },
+        {
+            "name": "nord-frost",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular nord frost scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "nord",
+                "frost"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/nord-frost.jsonc"
+        },
+        {
+            "name": "catppuccin-latte",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular catppuccin latte scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "catppuccin",
+                "latte"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/catppuccin-latte.jsonc"
+        },
+        {
+            "name": "catppuccin-frappe",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular catppuccin frappe scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "catppuccin",
+                "frappe"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/catppuccin-frappe.jsonc"
+        },
+        {
+            "name": "catppuccin-macchiato",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular catppuccin macchiato scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "catppuccin",
+                "macchiato"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/catppuccin-macchiato.jsonc"
+        },
+        {
+            "name": "solarized-dark",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular solarized dark scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "solarized",
+                "dark"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/solarized-dark.jsonc"
+        },
+        {
+            "name": "solarized-light",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular solarized light scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "solarized",
+                "light"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/solarized-light.jsonc"
+        },
+        {
+            "name": "monokai",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular monokai scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "monokai"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/monokai.jsonc"
+        },
+        {
+            "name": "monokai-pro",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular monokai pro scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "monokai",
+                "pro"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/monokai-pro.jsonc"
+        },
+        {
+            "name": "monokai-ristretto",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular monokai ristretto scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "monokai",
+                "ristretto"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/monokai-ristretto.jsonc"
+        },
+        {
+            "name": "ayu-dark",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular ayu dark scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "ayu",
+                "dark"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/ayu-dark.jsonc"
+        },
+        {
+            "name": "ayu-mirage",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular ayu mirage scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "ayu",
+                "mirage"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/ayu-mirage.jsonc"
+        },
+        {
+            "name": "ayu-light",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular ayu light scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "ayu",
+                "light"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/ayu-light.jsonc"
+        },
+        {
+            "name": "kanagawa",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular kanagawa scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "kanagawa"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/kanagawa.jsonc"
+        },
+        {
+            "name": "kanagawa-dragon",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular kanagawa dragon scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "kanagawa",
+                "dragon"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/kanagawa-dragon.jsonc"
+        },
+        {
+            "name": "kanagawa-lotus",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular kanagawa lotus scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "kanagawa",
+                "lotus"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/kanagawa-lotus.jsonc"
+        },
+        {
+            "name": "everforest-dark",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular everforest dark scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "everforest",
+                "dark"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/everforest-dark.jsonc"
+        },
+        {
+            "name": "everforest-light",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular everforest light scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "everforest",
+                "light"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/everforest-light.jsonc"
+        },
+        {
+            "name": "rose-pine",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular rose pine scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "rose",
+                "pine"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/rose-pine.jsonc"
+        },
+        {
+            "name": "rose-pine-moon",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular rose pine moon scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "rose",
+                "pine"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/rose-pine-moon.jsonc"
+        },
+        {
+            "name": "rose-pine-dawn",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular rose pine dawn scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "rose",
+                "pine"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/rose-pine-dawn.jsonc"
+        },
+        {
+            "name": "material-palenight",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular material palenight scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "material",
+                "palenight"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/material-palenight.jsonc"
+        },
+        {
+            "name": "material-ocean",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular material ocean scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "material",
+                "ocean"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/material-ocean.jsonc"
+        },
+        {
+            "name": "material-darker",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular material darker scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "material",
+                "darker"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/material-darker.jsonc"
+        },
+        {
+            "name": "night-owl",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular night owl scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "night",
+                "owl"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/night-owl.jsonc"
+        },
+        {
+            "name": "night-owl-light",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular night owl light scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "night",
+                "owl"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/night-owl-light.jsonc"
+        },
+        {
+            "name": "synthwave-84",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular synthwave 84 scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "synthwave",
+                "84"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/synthwave-84.jsonc"
+        },
+        {
+            "name": "cyberpunk",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular cyberpunk scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "cyberpunk"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/cyberpunk.jsonc"
+        },
+        {
+            "name": "oceanic-next",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular oceanic next scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "oceanic",
+                "next"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/oceanic-next.jsonc"
+        },
+        {
+            "name": "cobalt2",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular cobalt2 scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "cobalt2"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/cobalt2.jsonc"
+        },
+        {
+            "name": "shades-of-purple",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular shades of purple scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "shades",
+                "of"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/shades-of-purple.jsonc"
+        },
+        {
+            "name": "horizon",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular horizon scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "horizon"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/horizon.jsonc"
+        },
+        {
+            "name": "horizon-bright",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular horizon bright scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "horizon",
+                "bright"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/horizon-bright.jsonc"
+        },
+        {
+            "name": "panda-syntax",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular panda syntax scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "panda",
+                "syntax"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/panda-syntax.jsonc"
+        },
+        {
+            "name": "tender",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular tender scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "tender"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/tender.jsonc"
+        },
+        {
+            "name": "zenburn",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular zenburn scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "zenburn"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/zenburn.jsonc"
+        },
+        {
+            "name": "tomorrow-night",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular tomorrow night scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "tomorrow",
+                "night"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/tomorrow-night.jsonc"
+        },
+        {
+            "name": "oceanic-material",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular oceanic material scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "oceanic",
+                "material"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/oceanic-material.jsonc"
+        },
+        {
+            "name": "spacegray",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular spacegray scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "spacegray"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/spacegray.jsonc"
+        },
+        {
+            "name": "afterglow",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular afterglow scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "afterglow"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/afterglow.jsonc"
+        },
+        {
+            "name": "deep-ocean",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular deep ocean scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "deep",
+                "ocean"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/deep-ocean.jsonc"
+        },
+        {
+            "name": "midnight-sapphire",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular midnight sapphire scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "midnight",
+                "sapphire"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/midnight-sapphire.jsonc"
+        },
+        {
+            "name": "espresso",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular espresso scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "espresso"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/espresso.jsonc"
+        },
+        {
+            "name": "neon-night",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular neon night scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "neon",
+                "night"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/neon-night.jsonc"
+        },
+        {
+            "name": "mint-julep",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular mint julep scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "mint",
+                "julep"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/mint-julep.jsonc"
+        },
+        {
+            "name": "sakura",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular sakura scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "sakura"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/sakura.jsonc"
+        },
+        {
+            "name": "papercolor-dark",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular papercolor dark scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "papercolor",
+                "dark"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/papercolor-dark.jsonc"
+        },
+        {
+            "name": "papercolor-light",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular papercolor light scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "papercolor",
+                "light"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/papercolor-light.jsonc"
+        },
+        {
+            "name": "andromeda",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular andromeda scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "andromeda"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/andromeda.jsonc"
+        },
+        {
+            "name": "falcon",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular falcon scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "falcon"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/falcon.jsonc"
+        },
+        {
+            "name": "iceberg",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular iceberg scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "iceberg"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/iceberg.jsonc"
+        },
+        {
+            "name": "jellybeans",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular jellybeans scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "jellybeans"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/jellybeans.jsonc"
+        },
+        {
+            "name": "lavender",
+            "author": "xscriptor",
+            "version": "1.0.0",
+            "description": "Color palette inspired by the popular lavender scheme.",
+            "palette_style": "circles",
+            "tags": [
+                "dark",
+                "popular",
+                "lavender"
+            ],
+            "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/lavender.jsonc"
         }
     ]
 }
