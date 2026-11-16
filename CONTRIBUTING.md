@@ -16,7 +16,7 @@
   <li>
     Run the validation CI locally before opening the PR:
     <code>bash scripts/ci.sh</code> (Linux/macOS) or <code>./scripts/ci.ps1</code>
-    (Windows). It parses <code>index.json</code> and every theme file.
+    (Windows). It validates <code>index.json</code> against <code>schema.json</code> and checks every theme file.
   </li>
   <li>Test end-to-end: <code>xfetch theme set &lt;name&gt;</code> or install it with the <code>theme-manager</code> plugin.</li>
   <li>Add an entry to <a href="./CHANGELOG.md">CHANGELOG.md</a>.</li>

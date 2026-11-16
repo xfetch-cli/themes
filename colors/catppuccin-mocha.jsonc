@@ -1,7 +1,7 @@
 {
     "layout": "section",
     "show_colors": true,
-    "palette_style": "dots",
+    "palette_style": "squares",
     "colors": {
         "os": "Magenta",
         "kernel": "White",
