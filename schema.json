@@ -37,12 +37,12 @@
                     "layout": {
                         "type": "string",
                         "description": "Default layout for this theme",
-                        "enum": ["default", "section", "pacman", "side-block", "tree", "box", "line", "dots", "bottom_line", "compact", "minimal", "horizontal", "bottom"]
+                        "enum": ["default", "section", "section-box", "custom-x", "right", "pacman", "side-block", "tree", "box", "line", "dots", "bottom_line", "compact", "minimal", "horizontal", "bottom"]
                     },
                     "palette_style": {
                         "type": "string",
                         "description": "Default palette display style",
-                        "enum": ["squares", "circles", "triangles", "lines", "dots"]
+                        "enum": ["squares", "circles", "triangles", "lines"]
                     },
                     "tags": {
                         "type": "array",

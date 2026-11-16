@@ -1,7 +1,7 @@
 {
     "layout": "box",
     "show_colors": true,
-    "palette_style": "dots",
+    "palette_style": "squares",
     "colors": {
         "os": "Red",
         "kernel": "White",

@@ -24,7 +24,7 @@
             "layout": "section",
             "palette_style": "squares",
             "tags": [
-                "light",
+                "dark",
                 "nord",
                 "arctic",
                 "minimal"
@@ -37,7 +37,7 @@
             "version": "1.0.0",
             "description": "Warm mocha pastel palette from the Catppuccin Mocha color scheme. Easy on the eyes.",
             "layout": "section",
-            "palette_style": "dots",
+            "palette_style": "squares",
             "tags": [
                 "dark",
                 "catppuccin",
@@ -195,7 +195,7 @@
             "version": "1.0.0",
             "description": "Box layout with a red, magenta and white palette.",
             "layout": "box",
-            "palette_style": "dots",
+            "palette_style": "squares",
             "tags": [
                 "box",
                 "warm",
@@ -282,8 +282,7 @@
             "tags": [
                 "dark",
                 "popular",
-                "one",
-                "dark"
+                "one"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/one-dark.jsonc"
         },
@@ -296,8 +295,7 @@
             "tags": [
                 "dark",
                 "popular",
-                "one",
-                "dark"
+                "one"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/one-dark-pro.jsonc"
         },
@@ -308,7 +306,6 @@
             "description": "Color palette inspired by the popular one light scheme.",
             "palette_style": "circles",
             "tags": [
-                "dark",
                 "popular",
                 "one",
                 "light"
@@ -364,10 +361,10 @@
             "description": "Color palette inspired by the popular tokyo night day scheme.",
             "palette_style": "circles",
             "tags": [
-                "dark",
                 "popular",
                 "tokyo",
-                "night"
+                "night",
+                "light"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/tokyo-night-day.jsonc"
         },
@@ -380,8 +377,7 @@
             "tags": [
                 "dark",
                 "popular",
-                "gruvbox",
-                "dark"
+                "gruvbox"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/gruvbox-dark.jsonc"
         },
@@ -394,8 +390,7 @@
             "tags": [
                 "dark",
                 "popular",
-                "gruvbox",
-                "dark"
+                "gruvbox"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/gruvbox-dark-hard.jsonc"
         },
@@ -406,7 +401,6 @@
             "description": "Color palette inspired by the popular gruvbox light scheme.",
             "palette_style": "circles",
             "tags": [
-                "dark",
                 "popular",
                 "gruvbox",
                 "light"
@@ -462,10 +456,10 @@
             "description": "Color palette inspired by the popular catppuccin latte scheme.",
             "palette_style": "circles",
             "tags": [
-                "dark",
                 "popular",
                 "catppuccin",
-                "latte"
+                "latte",
+                "light"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/catppuccin-latte.jsonc"
         },
@@ -506,8 +500,7 @@
             "tags": [
                 "dark",
                 "popular",
-                "solarized",
-                "dark"
+                "solarized"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/solarized-dark.jsonc"
         },
@@ -518,7 +511,6 @@
             "description": "Color palette inspired by the popular solarized light scheme.",
             "palette_style": "circles",
             "tags": [
-                "dark",
                 "popular",
                 "solarized",
                 "light"
@@ -575,8 +567,7 @@
             "tags": [
                 "dark",
                 "popular",
-                "ayu",
-                "dark"
+                "ayu"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/ayu-dark.jsonc"
         },
@@ -601,7 +592,6 @@
             "description": "Color palette inspired by the popular ayu light scheme.",
             "palette_style": "circles",
             "tags": [
-                "dark",
                 "popular",
                 "ayu",
                 "light"
@@ -642,10 +632,10 @@
             "description": "Color palette inspired by the popular kanagawa lotus scheme.",
             "palette_style": "circles",
             "tags": [
-                "dark",
                 "popular",
                 "kanagawa",
-                "lotus"
+                "lotus",
+                "light"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/kanagawa-lotus.jsonc"
         },
@@ -658,8 +648,7 @@
             "tags": [
                 "dark",
                 "popular",
-                "everforest",
-                "dark"
+                "everforest"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/everforest-dark.jsonc"
         },
@@ -670,7 +659,6 @@
             "description": "Color palette inspired by the popular everforest light scheme.",
             "palette_style": "circles",
             "tags": [
-                "dark",
                 "popular",
                 "everforest",
                 "light"
@@ -712,10 +700,10 @@
             "description": "Color palette inspired by the popular rose pine dawn scheme.",
             "palette_style": "circles",
             "tags": [
-                "dark",
                 "popular",
                 "rose",
-                "pine"
+                "pine",
+                "light"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/rose-pine-dawn.jsonc"
         },
@@ -782,10 +770,10 @@
             "description": "Color palette inspired by the popular night owl light scheme.",
             "palette_style": "circles",
             "tags": [
-                "dark",
                 "popular",
                 "night",
-                "owl"
+                "owl",
+                "light"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/night-owl-light.jsonc"
         },
@@ -1069,8 +1057,7 @@
             "tags": [
                 "dark",
                 "popular",
-                "papercolor",
-                "dark"
+                "papercolor"
             ],
             "source": "https://raw.githubusercontent.com/xfetch-cli/themes/main/colors/papercolor-dark.jsonc"
         },
@@ -1081,7 +1068,6 @@
             "description": "Color palette inspired by the popular papercolor light scheme.",
             "palette_style": "circles",
             "tags": [
-                "dark",
                 "popular",
                 "papercolor",
                 "light"
